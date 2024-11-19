@@ -17,4 +17,3 @@ I am a passionate developer and technology enthusiast with expertise in full-sta
   ],
   "hobbies": "Exploring new technologies and sharing knowledge through open-source contributions 🌍"
 }
-
